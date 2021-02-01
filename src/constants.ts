@@ -1,5 +1,5 @@
 export const ASSET_URL =
-  "https://opensea.io/assets/0x1301566b3cb584e550a02d09562041ddc4989b91/28";
+  "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/57257244485938185519266718492488251953835651479666497386638564397693590831105";
 
 export enum EmbedTheme {
   Default = "true",
